@@ -1,0 +1,71 @@
+.bs-example {
+    background-color: #fff;
+
+    box-shadow: 2px 0 7px 0 rgba(0, 0, 0, 0.3);
+    margin-top: 20px;
+
+}
+
+.text_graph {
+    min-height: 338px;
+    border: 1px solid;
+    margin-top: 24px;
+}
+
+.border_bottom {
+    border-bottom: 1px solid #cec6c6;
+    margin-top: 7px;
+}
+
+.table_box {
+    display: flex;
+    padding: 30px 14px;
+}
+
+#show_table {
+    background-color: #fff;
+    box-shadow: 2px 0 7px 0 rgba(0, 0, 0, 0.3);
+}
+
+#chartContainer_rc {
+
+    background-color: #fff;
+    box-shadow: 2px 0 7px 0 rgba(0, 0, 0, 0.3);
+    padding: 9px 0px;
+}
+
+.rc_chart {
+    padding: 30px 12px;
+}
+
+.canvasjs-chart-credit {
+    display: none;
+}
+
+.custom_part {}
+
+.invest_amount {
+    border: none !important;
+}
+
+.manual-tab {
+    min-height: 150px;
+    border: 1px solid;
+
+}
+
+.padding-top {
+    padding-top: 20px;
+}
+
+.block-display {
+    display: block;
+}
+
+.padding-bootom {
+    padding-bottom: 20px;
+}
+
+.height {
+    min-height: 75px;
+}

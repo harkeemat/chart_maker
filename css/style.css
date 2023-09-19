@@ -1,0 +1,32 @@
+.page-title-action{
+    padding: 4px 8px;
+position: relative;
+top: -3px;
+text-decoration: none;
+border: none;
+
+border-radius: 2px;
+background: #f7f7f7;
+text-shadow: none;
+font-weight: 600;
+font-size: 13px;
+line-height: normal;
+color: #0073aa;
+cursor: pointer;
+outline: 0;
+border: 1px solid #ccc;
+
+display: inline-grid;
+}
+.page-title-action:hover{   
+    color:#fff;
+    background-color:#0073aa;
+    display: inline-grid;
+    text-decoration:none;
+}
+.chart_maker{
+    margin-top: 10rem;
+}
+/* #adminmenu .wp-has-current-submenu .wp-submenu, #adminmenu .wp-has-current-submenu .wp-submenu.sub-open, #adminmenu .wp-has-current-submenu.opensub .wp-submenu, #adminmenu a.wp-has-current-submenu:focus + .wp-submenu, .no-js li.wp-has-current-submenu:hover .wp-submenu{
+    display: none;
+} */
